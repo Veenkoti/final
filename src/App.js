@@ -1,1 +1,0 @@
-export default function App() { return <div>Northern Journal — v3.6 is rebuilding...</div>; }
