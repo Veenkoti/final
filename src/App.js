@@ -1,0 +1,1 @@
+// Final version: journal, whisper, images, prompts, and toggle logic will be inserted here
