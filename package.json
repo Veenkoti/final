@@ -2,7 +2,7 @@
 {
   "name": "northern-journal",
   "version": "3.6.0",
-  "main": "src/App.jsx",
+  "main": "src/main.jsx",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +13,7 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
     "vite": "^4.0.0"
   }
 }
